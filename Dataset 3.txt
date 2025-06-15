@@ -1,0 +1,46 @@
+Database	Pathway	ID	Species	Class	#Seqs	#Diff. Expr Seqs	GSEA Tag	GSEA ES	GSEA NES	Fisher Tag	Fisher FDR	Fisher P-Value
+KEGG	RNA polymerase	ko03020	None	None	1.0	-		-	-		-	-
+KEGG	Biosynthesis of unsaturated fatty acids	ko01040	None	None	1.0	-		-	-		-	-
+KEGG	Cell cycle - yeast	ko04111	None	None	1.0	-		-	-		-	-
+KEGG	Cell cycle	ko04110	None	None	1.0	-		-	-		-	-
+KEGG	Nucleotide excision repair	ko03420	None	None	1.0	-		-	-		-	-
+KEGG	Meiosis - yeast	ko04113	None	None	1.0	-		-	-		-	-
+KEGG	Oocyte meiosis	ko04114	None	None	1.0	-		-	-		-	-
+KEGG	Antigen processing and presentation	ko04612	None	None	1.0	-		-	-		-	-
+KEGG	Lipoic acid metabolism	ko00785	None	None	1.0	-		-	-		-	-
+KEGG	Drug metabolism - other enzymes	ko00983	None	None	1.0	-		-	-		-	-
+KEGG	Riboflavin metabolism	ko00740	None	None	1.0	-		-	-		-	-
+KEGG	Glycerophospholipid metabolism	ko00564	None	None	2.0	-		-	-		-	-
+KEGG	Renin-angiotensin system	ko04614	None	None	2.0	-		-	-		-	-
+KEGG	Insulin secretion	ko04911	None	None	1.0	-		-	-		-	-
+KEGG	Propanoate metabolism	ko00640	None	None	1.0	-		-	-		-	-
+KEGG	Insect hormone biosynthesis	ko00981	None	None	1.0	-		-	-		-	-
+KEGG	Metabolism of xenobiotics by cytochrome P450	ko00980	None	None	1.0	-		-	-		-	-
+KEGG	Growth hormone synthesis, secretion and action	ko04935	None	None	1.0	-		-	-		-	-
+KEGG	Cholesterol metabolism	ko04979	None	None	1.0	-		-	-		-	-
+KEGG	Inositol phosphate metabolism	ko00562	None	None	1.0	-		-	-		-	-
+KEGG	Thermogenesis	ko04714	None	None	1.0	-		-	-		-	-
+KEGG	Progesterone-mediated oocyte maturation	ko04914	None	None	1.0	-		-	-		-	-
+KEGG	Fatty acid elongation	ko00062	None	None	1.0	-		-	-		-	-
+KEGG	Glutathione metabolism	ko00480	None	None	2.0	-		-	-		-	-
+KEGG	Melanogenesis	ko04916	None	None	1.0	-		-	-		-	-
+KEGG	Valine, leucine and isoleucine degradation	ko00280	None	None	1.0	-		-	-		-	-
+KEGG	Cardiac muscle contraction	ko04260	None	None	1.0	-		-	-		-	-
+KEGG	Lysosome	ko04142	None	None	2.0	-		-	-		-	-
+KEGG	Endocytosis	ko04144	None	None	1.0	-		-	-		-	-
+KEGG	Nucleocytoplasmic transport	ko03013	None	None	1.0	-		-	-		-	-
+KEGG	Hematopoietic cell lineage	ko04640	None	None	2.0	-		-	-		-	-
+KEGG	mRNA surveillance pathway	ko03015	None	None	1.0	-		-	-		-	-
+KEGG	Thiamine metabolism	ko00730	None	None	2.0	-		-	-		-	-
+KEGG	N-Glycan biosynthesis	ko00510	None	None	1.0	-		-	-		-	-
+KEGG	Synaptic vesicle cycle	ko04721	None	None	2.0	-		-	-		-	-
+KEGG	Isoquinoline alkaloid biosynthesis	ko00950	None	None	1.0	-		-	-		-	-
+KEGG	Retrograde endocannabinoid signaling	ko04723	None	None	1.0	-		-	-		-	-
+KEGG	Cholinergic synapse	ko04725	None	None	2.0	-		-	-		-	-
+KEGG	Purine metabolism	ko00230	None	None	1.0	-		-	-		-	-
+KEGG	Glycolysis / Gluconeogenesis	ko00010	None	None	1.0	-		-	-		-	-
+KEGG	Folate biosynthesis	ko00790	None	None	1.0	-		-	-		-	-
+KEGG	GABAergic synapse	ko04727	None	None	1.0	-		-	-		-	-
+KEGG	Tyrosine metabolism	ko00350	None	None	1.0	-		-	-		-	-
+KEGG	Arachidonic acid metabolism	ko00590	None	None	1.0	-		-	-		-	-
+KEGG	Oxidative phosphorylation	ko00190	None	None	1.0	-		-	-		-	-
