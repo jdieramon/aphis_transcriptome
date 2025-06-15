@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1002538940.svg)](https://doi.org/10.5281/zenodo.15669814)
+
 # *A. gossypii* transcriptome data
 This repository contains the following datasets (.txt files):
 
