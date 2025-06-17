@@ -1,46 +1,46 @@
-Database	Pathway	ID	Species	Class	#Seqs	#Diff. Expr Seqs	GSEA Tag	GSEA ES	GSEA NES	Fisher Tag	Fisher FDR	Fisher P-Value
-KEGG	RNA polymerase	ko03020	None	None	1.0	-		-	-		-	-
-KEGG	Biosynthesis of unsaturated fatty acids	ko01040	None	None	1.0	-		-	-		-	-
-KEGG	Cell cycle - yeast	ko04111	None	None	1.0	-		-	-		-	-
-KEGG	Cell cycle	ko04110	None	None	1.0	-		-	-		-	-
-KEGG	Nucleotide excision repair	ko03420	None	None	1.0	-		-	-		-	-
-KEGG	Meiosis - yeast	ko04113	None	None	1.0	-		-	-		-	-
-KEGG	Oocyte meiosis	ko04114	None	None	1.0	-		-	-		-	-
-KEGG	Antigen processing and presentation	ko04612	None	None	1.0	-		-	-		-	-
-KEGG	Lipoic acid metabolism	ko00785	None	None	1.0	-		-	-		-	-
-KEGG	Drug metabolism - other enzymes	ko00983	None	None	1.0	-		-	-		-	-
-KEGG	Riboflavin metabolism	ko00740	None	None	1.0	-		-	-		-	-
-KEGG	Glycerophospholipid metabolism	ko00564	None	None	2.0	-		-	-		-	-
-KEGG	Renin-angiotensin system	ko04614	None	None	2.0	-		-	-		-	-
-KEGG	Insulin secretion	ko04911	None	None	1.0	-		-	-		-	-
-KEGG	Propanoate metabolism	ko00640	None	None	1.0	-		-	-		-	-
-KEGG	Insect hormone biosynthesis	ko00981	None	None	1.0	-		-	-		-	-
-KEGG	Metabolism of xenobiotics by cytochrome P450	ko00980	None	None	1.0	-		-	-		-	-
-KEGG	Growth hormone synthesis, secretion and action	ko04935	None	None	1.0	-		-	-		-	-
-KEGG	Cholesterol metabolism	ko04979	None	None	1.0	-		-	-		-	-
-KEGG	Inositol phosphate metabolism	ko00562	None	None	1.0	-		-	-		-	-
-KEGG	Thermogenesis	ko04714	None	None	1.0	-		-	-		-	-
-KEGG	Progesterone-mediated oocyte maturation	ko04914	None	None	1.0	-		-	-		-	-
-KEGG	Fatty acid elongation	ko00062	None	None	1.0	-		-	-		-	-
-KEGG	Glutathione metabolism	ko00480	None	None	2.0	-		-	-		-	-
-KEGG	Melanogenesis	ko04916	None	None	1.0	-		-	-		-	-
-KEGG	Valine, leucine and isoleucine degradation	ko00280	None	None	1.0	-		-	-		-	-
-KEGG	Cardiac muscle contraction	ko04260	None	None	1.0	-		-	-		-	-
-KEGG	Lysosome	ko04142	None	None	2.0	-		-	-		-	-
-KEGG	Endocytosis	ko04144	None	None	1.0	-		-	-		-	-
-KEGG	Nucleocytoplasmic transport	ko03013	None	None	1.0	-		-	-		-	-
-KEGG	Hematopoietic cell lineage	ko04640	None	None	2.0	-		-	-		-	-
-KEGG	mRNA surveillance pathway	ko03015	None	None	1.0	-		-	-		-	-
-KEGG	Thiamine metabolism	ko00730	None	None	2.0	-		-	-		-	-
-KEGG	N-Glycan biosynthesis	ko00510	None	None	1.0	-		-	-		-	-
-KEGG	Synaptic vesicle cycle	ko04721	None	None	2.0	-		-	-		-	-
-KEGG	Isoquinoline alkaloid biosynthesis	ko00950	None	None	1.0	-		-	-		-	-
-KEGG	Retrograde endocannabinoid signaling	ko04723	None	None	1.0	-		-	-		-	-
-KEGG	Cholinergic synapse	ko04725	None	None	2.0	-		-	-		-	-
-KEGG	Purine metabolism	ko00230	None	None	1.0	-		-	-		-	-
-KEGG	Glycolysis / Gluconeogenesis	ko00010	None	None	1.0	-		-	-		-	-
-KEGG	Folate biosynthesis	ko00790	None	None	1.0	-		-	-		-	-
-KEGG	GABAergic synapse	ko04727	None	None	1.0	-		-	-		-	-
-KEGG	Tyrosine metabolism	ko00350	None	None	1.0	-		-	-		-	-
-KEGG	Arachidonic acid metabolism	ko00590	None	None	1.0	-		-	-		-	-
-KEGG	Oxidative phosphorylation	ko00190	None	None	1.0	-		-	-		-	-
+Database,Pathway,ID,#Seqs,Seq. id. ,pathway hierarchy ,Class
+KEGG,Cell cycle - yeast,ko04111,1.0,XP_050066114.1,Cellular processes ,Cell growth and death
+KEGG,Cell cycle,ko04110,1.0,XP_050066114.1,Cellular processes ,Cell growth and death
+KEGG,Meiosis - yeast,ko04113,1.0,XP_050066114.1,Cellular processes ,Cell growth and death
+KEGG,Oocyte meiosis,ko04114,1.0,XP_050066114.1,Cellular processes ,Cell growth and death
+KEGG,Lysosome,ko04142,2.0,XP_027846959.1; XP_027850361.1,Cellular processes ,Transport and catabolism
+KEGG,Endocytosis,ko04144,1.0,XP_027847455.2,Cellular processes ,Transport and catabolism
+KEGG,Nucleotide excision repair,ko03420,1.0,XP_027838955.1,Genetic information processing ,Replication and repair
+KEGG,RNA polymerase,ko03020,1.0,XP_027838955.1,Genetic information processing ,Transcription
+KEGG,Nucleocytoplasmic transport,ko03013,1.0,XP_027843489.2,Genetic information processing ,Translation
+KEGG,mRNA surveillance pathway,ko03015,1.0,XP_027843489.2,Genetic information processing ,Translation
+KEGG,"Valine, leucine and isoleucine degradation",ko00280,1.0,XP_027848134.2,Metabolism ,Amino acid metabolim
+KEGG,Tyrosine metabolism,ko00350,1.0,XP_050061813.1,Metabolism ,Amino acid metabolim
+KEGG,Isoquinoline alkaloid biosynthesis,ko00950,1.0,XP_050061813.1,Metabolism ,Biosynthesis of other secondary metabolites
+KEGG,Propanoate metabolism,ko00640,1.0,XP_027848134.2,Metabolism ,Carbohydrate metabolim
+KEGG,Inositol phosphate metabolism,ko00562,1.0,XP_027848163.1,Metabolism ,Carbohydrate metabolim
+KEGG,Glycolysis / Gluconeogenesis,ko00010,1.0,XP_027848163.1,Metabolism ,Carbohydrate metabolim
+KEGG,Lipoic acid metabolism,ko00785,1.0,XP_027848134.2,Metabolism ,Cellular processes 
+KEGG,Oxidative phosphorylation,ko00190,1.0,YP_009048917.1,Metabolism ,Energy metabolism
+KEGG,N-Glycan biosynthesis,ko00510,1.0,XP_050064644.1,Metabolism ,Glycan biosynthesis and metabolism
+KEGG,Glycerophospholipid metabolism,ko00564,2.0,XP_050066304.1; XP_050057222.1,Metabolism ,Lipid metabolism
+KEGG,Biosynthesis of unsaturated fatty acids,ko01040,1.0,XP_027836366.1,Metabolism ,Lipid metabolism
+KEGG,Fatty acid elongation,ko00062,1.0,XP_027836366.1,Metabolism ,Lipid metabolism
+KEGG,Arachidonic acid metabolism,ko00590,1.0,XP_027851774.2,Metabolism ,Lipid metabolism
+KEGG,Glutathione metabolism,ko00480,2.0,XP_050058680.1; XP_050058682.1,Metabolism ,Meatbolism of other amino acids
+KEGG,Thiamine metabolism,ko00730,2.0,XP_050058306.1;  XP_027848163.1,Metabolism ,Metabolism of cofactors and vitamins
+KEGG,Riboflavin metabolism,ko00740,1.0,XP_027848163.1,Metabolism ,Metabolism of cofactors and vitamins
+KEGG,Folate biosynthesis,ko00790,1.0,XP_027851774.2,Metabolism ,Metabolism of cofactors and vitamins
+KEGG,Insect hormone biosynthesis,ko00981,1.0,XP_050057222.1,Metabolism ,Metabolism of terpenoids and polyketides
+KEGG,Purine metabolism,ko00230,1.0,XP_050058306.1,Metabolism ,Nucleotide metabolism
+KEGG,Drug metabolism - other enzymes,ko00983,1.0,XP_050057222.1,Metabolism ,Xenobiotics biodegradation and metabolism
+KEGG,Metabolism of xenobiotics by cytochrome P450,ko00980,1.0,XP_027851774.2,Metabolism ,Xenobiotics biodegradation and metabolism
+KEGG,Antigen processing and presentation,ko04612,1.0,XP_027850361.1,Organismal system ,Immune system
+KEGG,Cardiac muscle contraction,ko04260,1.0,YP_009048917.1,Organismal system ,Circulatory system
+KEGG,Cholesterol metabolism,ko04979,1.0,XP_027846959.1,Organismal system ,Digestive system
+KEGG,Renin-angiotensin system,ko04614,2.0,XP_050058680.1; XP_050058682.1,Organismal system ,Endocrine system
+KEGG,Insulin secretion,ko04911,1.0,XP_050063985.1,Organismal system ,Endocrine system
+KEGG,"Growth hormone synthesis, secretion and action",ko04935,1.0,XP_027840458.2,Organismal system ,Endocrine system
+KEGG,Progesterone-mediated oocyte maturation,ko04914,1.0,XP_050066114.1,Organismal system ,Endocrine system
+KEGG,Melanogenesis,ko04916,1.0,XP_050061813.1,Organismal system ,Endocrine system
+KEGG,Thermogenesis,ko04714,1.0,YP_009048917.1,Organismal system ,Environmental adaptation
+KEGG,Hematopoietic cell lineage,ko04640,2.0,XP_050058680.1; XP_050058682.1,Organismal system ,Immune system
+KEGG,Synaptic vesicle cycle,ko04721,2.0,XP_027837707.2;  XP_050053446.1,Organismal system ,Nervous system 
+KEGG,Cholinergic synapse,ko04725,2.0,XP_050066304.1; XP_050057222.1,Organismal system ,Nervous system 
+KEGG,Retrograde endocannabinoid signaling,ko04723,1.0,XP_027837707.2,Organismal system ,Nervous system 
+KEGG,GABAergic synapse,ko04727,1.0,XP_027837707.2,Organismal system ,Nervous system 
